@@ -1,4 +1,4 @@
-
+# code for creating a trained modelß
 import pickle
 import pandas as pd
 import numpy as np
